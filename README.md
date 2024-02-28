@@ -43,10 +43,10 @@ void loop() {
 
 # Circuit Design
 
-Refer to the [assembly listing](ASSEMBLY-biodatatrio3.0.pdf) for the parts.
+Refer to the [assembly listing](extras/ASSEMBLY-biodatatrio3.0.pdf) for the parts.
 
 Schematics:
-![BioSynth Schematics](extra/GEE-BioSynthv3-schematics2018.jpg)
+![BioSynth Schematics](extras/GEE-BioSynthv3-schematics2018.jpg)
 
 
 # Credits
